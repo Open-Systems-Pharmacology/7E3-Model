@@ -2512,27 +2512,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig3"
+          "Value": "Garg2007Fig3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -2614,27 +2620,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -2713,27 +2725,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Heart"
+          "Value": "Heart",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -2812,27 +2830,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Lung"
+          "Value": "Lung",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -2917,27 +2941,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Liver"
+          "Value": "Liver",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3019,27 +3049,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Spleen"
+          "Value": "Spleen",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3121,27 +3157,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Muscle"
+          "Value": "Muscle",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3220,27 +3262,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Skin"
+          "Value": "Skin",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3322,27 +3370,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Gut"
+          "Value": "Gut",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3424,27 +3478,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Kidney"
+          "Value": "Kidney",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3529,27 +3589,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2009"
+          "Value": "Garg2009",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3634,27 +3700,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_WildType"
+          "Value": "Data_WildType",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Brain"
+          "Value": "Brain",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2009"
+          "Value": "Garg2009",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3739,27 +3811,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig3"
+          "Value": "Garg2007Fig3",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3835,27 +3913,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -3928,27 +4012,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Heart"
+          "Value": "Heart",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4027,27 +4117,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Lung"
+          "Value": "Lung",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4123,27 +4219,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Liver"
+          "Value": "Liver",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4222,27 +4324,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Spleen"
+          "Value": "Spleen",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4318,27 +4426,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Muscle"
+          "Value": "Muscle",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4414,27 +4528,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Skin"
+          "Value": "Skin",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4513,27 +4633,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Gut"
+          "Value": "Gut",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4606,27 +4732,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Kidney"
+          "Value": "Kidney",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2007Fig5"
+          "Value": "Garg2007Fig5",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4702,27 +4834,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "VenousBlood"
+          "Value": "VenousBlood",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Plasma"
+          "Value": "Plasma",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2009"
+          "Value": "Garg2009",
+          "Type": "String"
         }
       ],
       "Columns": [
@@ -4804,27 +4942,33 @@
       "ExtendedProperties": [
         {
           "Name": "Sheet",
-          "Value": "Data_FcRnKO"
+          "Value": "Data_FcRnKO",
+          "Type": "String"
         },
         {
           "Name": "Organ",
-          "Value": "Brain"
+          "Value": "Brain",
+          "Type": "String"
         },
         {
           "Name": "Compartment",
-          "Value": "Tissue"
+          "Value": "Tissue",
+          "Type": "String"
         },
         {
           "Name": "Molecule",
-          "Value": "7E3"
+          "Value": "7E3",
+          "Type": "String"
         },
         {
           "Name": "Species",
-          "Value": "Mouse"
+          "Value": "Mouse",
+          "Type": "String"
         },
         {
           "Name": "Study Id",
-          "Value": "Garg2009"
+          "Value": "Garg2009",
+          "Type": "String"
         }
       ],
       "Columns": [
